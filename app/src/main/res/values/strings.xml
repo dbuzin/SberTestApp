@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SberTestApp</string>
+    <string name="convert_sum">Сумма конвертации</string>
+    <string name="result_sum">%1$S %2$S = %3$S %4$S</string>
+    <string name="empty_sum">Введите сумму для конвертации выше</string>
+    <string name="convert_error">Ошибка конвертации</string>
+    <string name="offline">Нет подключения к интернету. Конвертацию будет происходить по сохраненному курсу.</string>
+    <string name="first_launch_error">Ошибка подключения \nПри первом запуске приложения необходимо подключение к интернету!</string>
+    <string name="connection_restored">Данные успешно загружены</string>
+</resources>
